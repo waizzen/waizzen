@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=YOUR_NAME&fontSize=55&fontColor=58A6FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=waizen&fontSize=55&fontColor=58A6FF&animation=fadeIn"/>
 
 ### Data Science • Machine Learning • AI
 
@@ -15,7 +15,7 @@
 
 ### About
 
-
+```python
 name = "Waizen"
 
 focus = [
@@ -26,7 +26,7 @@ focus = [
 ]
 
 goal = "Become a Data Scientist."
-
+```
 
 ### Stack
 
