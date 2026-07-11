@@ -38,16 +38,7 @@ goal = "Become a Data Scientist."
 
 
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
 
 > *"Turning data into decisions."*
 
